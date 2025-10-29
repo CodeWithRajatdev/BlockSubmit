@@ -32,7 +32,7 @@ Each submission is timestamped, publicly viewable, and permanently recorded — 
 
 ## 🔗 Deployed Smart Contract
 **Network:** XXX  
-**Contract Address:** XXX  
+**Contract Address:0x34b913e74ef71e72d0bbbca196d91d03d8945032
 **Block Explorer Link:** [View on Explorer](XXX)
 
 ---
